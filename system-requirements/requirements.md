@@ -1,4 +1,4 @@
-#System requirements
+# System requirements
 
 
 1. Seismographs (on probes) have to export data in a most compressed way.
